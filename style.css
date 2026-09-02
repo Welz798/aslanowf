@@ -1,0 +1,50 @@
+#indexh1yazi {
+    color: rgb(238, 5, 5);
+    font-size: 50px;
+}
+#indexh2yazi {
+    font-size: 40px;
+    color: blue;
+}
+.indexayazi {
+    background-color: rgb(186, 247, 6);
+    font-size: 25px;
+}
+#kompaksesh1yazi {
+    font-size: 45px;
+    background-color: rgba(26, 45, 137, 0.988);
+    color: rgb(240, 141, 3);
+  
+}
+.kompaksesh2yazi {
+  font-size: 30px;
+  color: blue;
+}
+.kompaksesbalacalat {
+    width: 430px;
+}
+.kompaksesmarkyazi {
+    font-size: 25px;
+}
+.kompaksesayazi {
+    font-size: 25px;
+    color: rgb(1, 18, 125);
+    background-color: rgba(255, 128, 0, 0.611);
+}
+.birincimehsulmarkyazi {
+    font-size: 35px;
+}
+.birincimehsulh1yazi {
+    font-size: 40px;
+    color:blueviolet;
+}
+.birincimehsulh2yazisi {
+    font-size: 30px;
+}
+.birincimehsulimgyazi {
+    width: 400px;
+}
+.contacth1yazi {
+    font-size: 40px;
+    color: darkblue;
+}
